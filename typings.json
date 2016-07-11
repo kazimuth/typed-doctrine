@@ -1,0 +1,12 @@
+{
+  "name": "doctrine",
+  "main": "lib/doctrine.d.ts",
+  "homepage": "https://github.com/eslint/doctrine",
+  "version": "1.2.2",
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160623043621"
+  },
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160622202520"
+  }
+}
