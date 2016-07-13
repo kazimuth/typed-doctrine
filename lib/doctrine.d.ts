@@ -294,22 +294,6 @@ declare namespace doctrine {
    */
   export namespace type {
     /**
-     * All possible 'type's in the type AST.
-     */
-    export const Syntax: SyntaxType;
-
-    /**
-     * Parse a jsdoc type expression.
-     */
-    export const parseType: ParseTypeFn;
-
-    /**
-     * Parse a jsdoc parameter type expression.
-     * Includes anything that can come out of {@link doctrine.parseType}, as well as
-     */
-    export const parseParamType: ParseParamTypeFn;
-
-    /**
      * Convert a type AST to a string.
      */
     export function stringify(

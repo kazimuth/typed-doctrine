@@ -3,7 +3,7 @@ import * as test from 'blue-tape';
 
 test('parse no options', (t: test.Test) => {
   let res = d.parse('');
-  t.plan(2)
+  t.plan(2);
   t.equal(res.description, '');
   t.equal(res.tags.length, 0);
 });
