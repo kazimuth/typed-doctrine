@@ -1,7 +1,7 @@
 # Typed Doctrine  [![Build Status](https://travis-ci.org/kazimuth/typed-doctrine.svg?branch=master)](https://travis-ci.org/kazimuth/typed-doctrine)
 
 
-The type definition for [`doctrine`](git+ssh://git@github.com/eslint/doctrine.git)
+The type definition for [`eslint/doctrine`](git+ssh://git@github.com/eslint/doctrine.git)
 
 ## LICENSE
 
